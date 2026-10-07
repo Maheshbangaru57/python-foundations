@@ -1,2 +1,2 @@
 # python-foundations
-Python
+Python fundamentals practice: small programs while learning.
